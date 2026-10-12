@@ -1,8 +1,8 @@
 Still in development
 
 Next:
-> RBAC
-> Gracefully Shutdown
-> .
-> .
-> .
+* RBAC
+* Gracefully Shutdown
+* .
+* .
+* .
